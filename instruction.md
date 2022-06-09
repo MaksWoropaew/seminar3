@@ -12,3 +12,8 @@
 
     git add file_name
 
+После измений в файле, что бы их сохранить нужно ввести следующие команды:
+
+    git add
+    git commit -m"comments"
+
